@@ -52,6 +52,10 @@ h1, h2, h3  {
     width: 180px;
 }
 
+#codingmeme {
+    width: 200px;
+}
+
 #main {
   width: 750px;
   float: right;
