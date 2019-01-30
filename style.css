@@ -89,3 +89,13 @@ h1, h2, h3  {
   color: black;
   text-align: left;
 }
+
+table {
+    border-collapse: collapse;
+    width: 150px;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid white;
+}
