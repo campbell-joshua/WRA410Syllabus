@@ -48,6 +48,10 @@ h1, h2, h3  {
   font-weight: bold;
 }
 
+#msulogo {
+    width: 180px;
+}
+
 #main {
   width: 750px;
   float: right;
