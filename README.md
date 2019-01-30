@@ -24,6 +24,10 @@ Revise the following section in your README.md file with a short description of 
 
 3. Include two images.
 
+    -I added the MSU spartan head logo to the homepage under the menu and to the left of the content.
+    I added a meme about coding in the same place on the resources page.
+    Both of these files were places in an images folder.
+
 4. Use a table to format the Grading Scale on the Assignments page.
 
 5. Reformat the Student Groups. Use a different color for links, add a title for each group, seperate each student. Use multiple columns for the divs.  

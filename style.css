@@ -48,6 +48,14 @@ h1, h2, h3  {
   font-weight: bold;
 }
 
+#msulogo {
+    width: 180px;
+}
+
+#codingmeme {
+    width: 200px;
+}
+
 #main {
   width: 750px;
   float: right;
