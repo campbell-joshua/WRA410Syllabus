@@ -34,6 +34,8 @@ Revise the following section in your README.md file with a short description of 
 
 6. Add navgation to the Schedule webpage.
 
+    -Added the navigation to the schedule webpage and added groups to the other pages as well.
+
 7. Revise the rows and columns on the Schedule webpage so the information is clearer or prettier.
 
 
