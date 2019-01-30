@@ -12,7 +12,15 @@ Revise the following section in your README.md file with a short description of 
 
 1. Make changes to the background color of a page and a div.
 
+    -I edited the background color of all pages and of the container div to a dark grey, which
+    is similar to "night mode" on many applications.  I also modified the footer color to fit better with the theme.
+    Another change that I made was to the schedule colors, they have been modified to be consistent with the rest
+    of the site.  Changes were also made to the student groups page.
+
 2. Use a new font.
+
+    -I changed the font to Georgia and changed the color to white so it would be easy to read
+    on the dark background.
 
 3. Include two images.
 
