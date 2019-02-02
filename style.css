@@ -6,7 +6,8 @@ body {
 
 a {
   text-decoration: none;
-  color: #b23333;
+  color: #18453b;
+
 }
 
 h1, h2, h3  {
@@ -36,6 +37,8 @@ h1, h2, h3  {
   width: 100px;
   float: left;
   padding: 20px;
+    background-color: #aaaaaa;
+    margin-bottom: 10px;
 }
 
 #nav ul {
@@ -59,7 +62,6 @@ h1, h2, h3  {
 #main {
   width: 750px;
   float: right;
-
 }
 
 #student-group {
@@ -67,7 +69,7 @@ h1, h2, h3  {
   margin: 20px;
   border: 20px;
   padding: 10px;
-  background-color: #858585;
+  background-color: #aaaaaa;
   color: black;
   text-align: left;
 }
@@ -88,6 +90,12 @@ h1, h2, h3  {
   font-weight: lighter;
   color: black;
   text-align: left;
+}
+
+.grid {
+    text-align: center;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 table {
