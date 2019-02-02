@@ -90,6 +90,13 @@ h1, h2, h3  {
   text-align: left;
 }
 
+.grid {
+    text-align: center;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+
 table {
     border-collapse: collapse;
     width: 150px;
