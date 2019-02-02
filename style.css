@@ -7,6 +7,7 @@ body {
 a {
   text-decoration: none;
   color: #18453b;
+
 }
 
 h1, h2, h3  {
@@ -61,7 +62,6 @@ h1, h2, h3  {
 #main {
   width: 750px;
   float: right;
-
 }
 
 #student-group {
@@ -97,7 +97,6 @@ h1, h2, h3  {
     display:grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
-
 
 table {
     border-collapse: collapse;

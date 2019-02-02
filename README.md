@@ -45,6 +45,8 @@ Revise the following section in your README.md file with a short description of 
 
 7. Revise the rows and columns on the Schedule webpage so the information is clearer or prettier.
 
+    -Changed the background color and the text color to fit with the links better.
+
 
 ## Grading Criteria
 
