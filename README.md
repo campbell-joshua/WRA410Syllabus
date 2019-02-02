@@ -33,7 +33,11 @@ Revise the following section in your README.md file with a short description of 
     -I used a table with a solid white border so it would pop off the background.
     I increased the width of the cells so the words are not as squished and centered the text in the cells.
 
-5. Reformat the Student Groups. Use a different color for links, add a title for each group, seperate each student. Use multiple columns for the divs.  
+5. Reformat the Student Groups. Use a different color for links, add a title for each group, seperate each student. Use multiple columns for the divs.
+    
+    -I used a grid layout to organize the names better.  I updated the link color to the page and decided that I liked how
+    it looked so I applied it to the rest of the site.  Some changes will need to be made to the schedule page because
+    of this but that will be addressed later.
 
 6. Add navgation to the Schedule webpage.
 
